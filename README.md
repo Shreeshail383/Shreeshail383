@@ -13,7 +13,7 @@
 - 🎓 Pursuing Master of Computer Applications (MCA), graduating in 2027.
 - 💻 Passionate about software development and problem-solving.
 - 🤖 Exploring Artificial Intelligence, Machine Learning and MCP.
-- 🔨 Building practical projects to improve my development skills.
+- 🔨 Building practical projects to solve real-world problems.
 - 🌱 Always learning and exploring new technologies.
 
 ### 🛠️ Tech Stack
@@ -22,14 +22,74 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### 💻 Featured Projects
+### 💻 My Projects
 
-| Project | Description |
-|---|---|
-| **IntelliOps** | AI-powered IT incident management and automation |
-| **Sorting Visualizer** | Visualizes sorting algorithms step by step |
-| **Regex Text Extraction** | Extracts patterns from text using Python |
-| **Chatbot** | Conversational chatbot application |
+**1. IntelliOps – AI-Powered IT Operations Management**
+
+An AI-powered IT operations management application designed to monitor applications, detect incidents, analyze failures, and assist in resolving technical issues.
+
+- Integrates with external applications to monitor application events.
+- Detects and creates incidents when issues such as payment failures occur.
+- Displays incident details, including affected users and failure information.
+- Uses AI-powered analysis to identify possible root causes.
+- Provides evidence-based insights to help understand technical issues.
+- Supports incident resolution and allows users to retry failed operations after resolution.
+- Explores MCP (Model Context Protocol) integration to connect AI capabilities with application tools.
+
+**Technologies:** Python, FastAPI, AI, MCP, MySQL, JavaScript.
+
+**2. Student Internship Portal**
+
+A web-based platform designed to simplify the internship application process for students and help administrators manage internship opportunities.
+
+- Provides a platform for students to explore available internship opportunities.
+- Allows students to register, log in, and manage their profiles.
+- Helps students view internship details and submit applications.
+- Provides administrators with options to manage internship listings and student applications.
+- Organizes internship-related information in one centralized platform.
+
+**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript.
+
+**3. Sorting Visualizer**
+
+A project that visually demonstrates how sorting algorithms work through step-by-step animations.
+
+- Helps understand sorting logic and algorithm behavior.
+- Demonstrates the sorting process using visual representations.
+- Makes learning data structures and algorithms more interactive.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+**4. Regex-Based Text Extraction**
+
+A Python project that uses regular expressions to identify, match, and extract specific patterns from text.
+
+- Extracts information based on predefined patterns.
+- Uses regular expressions for text processing.
+- Demonstrates practical applications of Python string handling.
+
+**Technologies:** Python, Regular Expressions.
+
+**5. Chatbot Project**
+
+A chatbot application developed to explore conversational interfaces and basic chatbot functionality.
+
+- Accepts user input and generates responses.
+- Explores the fundamentals of chatbot development.
+- Provides experience with conversational application design.
+
+**Technologies:** Python.
+
+---
+
+### 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Low-Level Design (LLD)
+- Artificial Intelligence and Machine Learning
+- Model Context Protocol (MCP)
+- Backend Development
 
 ### 📊 GitHub Statistics
 
