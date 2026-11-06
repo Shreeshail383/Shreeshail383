@@ -1,24 +1,67 @@
-# 💫 About Me:
-I am aspiring software engineer 
+# 👋 Hi, I'm Shreeshail!
 
+<h3 align="center">MCA Student | Software Developer | AI Enthusiast</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreeshail_j_v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShreeshailViraktamath ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreeshailviraktamath303@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreeshail383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shreeshail383&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeshail383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreeshail383&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Python+%7C+Java+%7C+SQL;Exploring+AI+%26+Machine+Learning;Building+Real-World+Projects" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shreeshail383&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 Pursuing Master of Computer Applications (MCA), graduating in 2027.
+- 💻 Passionate about software development and problem-solving.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and MCP.
+- 🔨 Building practical projects to improve my development skills.
+- 🌱 Always learning and exploring new technologies.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
+</p>
+
+### 💻 Featured Projects
+
+| Project | Description |
+|---|---|
+| **IntelliOps** | AI-powered IT incident management and automation |
+| **Sorting Visualizer** | Visualizes sorting algorithms step by step |
+| **Regex Text Extraction** | Extracts patterns from text using Python |
+| **Chatbot** | Conversational chatbot application |
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreeshail383&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeshail383&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreeshail383&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreeshailjv2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Shreeshail383">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:shreeshailviraktamath303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreeshail383&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+<h3 align="center">💡 Learn | Build | Improve | Repeat 🚀</h3>
